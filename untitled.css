@@ -1,0 +1,84 @@
+/*＃＃版面設計*/
+
+body{
+	margin: 24px 10px ;
+	font-family: Arial,微軟正黑體 
+}
+
+ #site {
+ 	width: 960px;
+ 	margin: auto;                                                                                                                                                                                                                                                                                                
+ }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ header {
+ 	margin-bottom: 10px;
+ 	overflow: hidden;
+ }
+
+ #topnew {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+ #oldernews {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+/* ### 細節設計 ###*/
+
+/* HEADER LOGO */
+
+#banner {
+	float: left;
+}
+
+#banner h1 {
+	margin: 0;
+}
+
+#banner img {
+	vertical-align: bottom;
+	width: 332px;
+}
+
+
+
+nav {
+    float: right;
+    font-size: 15px;
+    font-family: 'Handlee', cursive;
+    padding-top: 30px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    list-style-type: none;
+    float: left;
+}
+
+nav li a {
+    display: block;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-bottom: solid 3px transparent;
+    color: #000000;
+}
+
+nav li a:hover {
+    border-bottom-color: #ff1e97;
+}
+
+
+
+
